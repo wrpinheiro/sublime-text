@@ -1,0 +1,4 @@
+{
+  "cmd": ["scss", "--style", "expanded", "$file"],
+  "selector": "source.scss"
+}

@@ -1,0 +1,63 @@
+[
+   {
+      "id": "side-bar-files-open-with",
+      "children": [
+         {
+            "caption": "Photoshop",
+            "id": "side-bar-files-open-with-photoshop",
+            "command": "side_bar_files_open_with",
+            "args": {
+               "paths": [],
+               "application": "/Applications/Adobe CS6/Adobe Photoshop CS6/Adobe Photoshop CS6.app",
+               "extensions":"psd|png|jpg|jpeg|gif|psd"
+            }
+         },
+
+         {
+            "caption": "Illustrator",
+            "id": "side-bar-files-open-with-illustrator",
+            "command": "side_bar_files_open_with",
+            "args": {
+               "paths": [],
+               "application": "/Applications/Adobe CS6/Adobe Illustrator CS6/Adobe Illustrator CS6.app",
+               "extensions":"ai|svg"
+            }
+         },
+
+         {
+            "caption": "Google Chrome",
+            "id": "side-bar-files-open-with-chrome",
+            "command": "side_bar_files_open_with",
+            "args": {
+               "paths": [],
+               "application": "/Applications/Google Chrome.app",
+               "extensions":"png|jpg|jpeg|gif|svg|html|htm|json|xml"
+            }
+         },
+
+         {
+            "caption": "Safari",
+            "id": "side-bar-files-open-with-safari",
+            "command": "side_bar_files_open_with",
+            "args": {
+               "paths": [],
+               "application": "/Applications/Safari.app",
+               "extensions":"png|jpg|jpeg|gif|svg|html|htm"
+            }
+         },
+
+         {
+            "caption": "Firefox",
+            "id": "side-bar-files-open-with-firefox",
+            "command": "side_bar_files_open_with",
+            "args": {
+               "paths": [],
+               "application": "/Applications/Firefox.app",
+               "extensions":"png|jpg|jpeg|gif|svg|html|htm|xml"
+            }
+         },
+
+         {"caption":"-"}
+      ]
+   }
+]

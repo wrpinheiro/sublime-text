@@ -1,0 +1,50 @@
+{
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"Abacus",
+		"ActionScript 3",
+		"AdvancedNewFile",
+		"Ansible",
+		"ApplySyntax",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"Better RSpec",
+		"BufferScroll",
+		"ChangeQuotes",
+		"ColorPicker",
+		"CSS3_Syntax",
+		"DashDoc",
+		"Emmet",
+		"Expand Selection to Quotes",
+		"Gist",
+		"GitGutter",
+		"Handlebars",
+		"Highlight",
+		"HTMLBeautify",
+		"INI",
+		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
+		"Markdown Preview",
+		"Modific",
+		"nginx",
+		"Package Control",
+		"Puppet",
+		"RubyEval",
+		"RubyToggleString",
+		"ScopeAlways",
+		"ScopeHunter",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"sublimelint",
+		"Switch Case",
+		"TernJS",
+		"Theme - Soda",
+		"WordCount"
+	],
+	"repositories":
+	[
+		"https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json"
+	]
+}

@@ -1,0 +1,74 @@
+{
+  "new_file_syntax": "Ruby/Ruby",
+
+  "syntaxes": [
+    {
+      "name": "Rails/Ruby on Rails",
+      "rules": [
+        {"file_name": ".*Berksfile$"},
+        {"file_name": "\\.rb$"},
+      ]
+    },
+
+    {
+      "name": "Better RSpec/Better RSpec",
+      "rules": [
+          {"file_name": ".*spec\\.rb$"},
+          {"file_name": ".*/spec/.*\\.rb$"},
+          {"file_name": ".*\\\\spec\\\\.*\\.rb$"}
+      ]
+    },
+
+    {
+      "name": "Jinja2/Syntaxes/Jinja Templates",
+      "rules": [
+        {"file_name": ".*\\.j2$"}
+      ]
+    },
+
+    {
+      "name": "YAML/YAML",
+      "rules": [
+        {"file_name": ".*\\Procfile$"}
+      ]
+    },
+
+    {
+      "name": "INI/INI",
+      "rules": [
+        {"file_name": ".*\\chefignore$"},
+        {"file_name": ".*\\cfg$"},
+        {"file_name": ".*\\hosts$"},
+        {"file_name": ".*\\.env$"}
+      ]
+    },
+
+    {
+      "name": "Jasmine/Syntaxes/Jasmine",
+      "rules": [
+        {"file_name": ".*\\.js$"}
+      ]
+    },
+
+    {
+      "name": "Coffeescript",
+      "rules": [
+        {"file_name": "\\.coffee$"}
+      ]
+    },
+
+    {
+      "name": "JavaScript/JSON",
+      "rules": [
+        {"file_name": ".*\\.bowerrc$"}
+      ]
+    },
+
+    {
+      "name": "Ansible/Ansible",
+      "rules": [
+        {"file_name": ".*\\main.yml$"}
+      ]
+    }
+  ]
+}

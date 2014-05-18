@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+class ${1:Model} < ActiveRecord::Base
+  $0
+end
+]]></content>
+  <tabTrigger>model</tabTrigger>
+  <scope>source.ruby.rails</scope>
+</snippet>

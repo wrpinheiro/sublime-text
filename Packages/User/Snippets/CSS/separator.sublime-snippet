@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+/*********************************************************
+ * ${1:description}
+ *********************************************************/
+$0
+]]></content>
+  <tabTrigger>sep</tabTrigger>
+  <scope>source.css</scope>
+</snippet>
