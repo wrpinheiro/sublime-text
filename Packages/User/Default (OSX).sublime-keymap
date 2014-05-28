@@ -86,7 +86,7 @@
     "keys": ["'"],
     "command": "insert_snippet",
     "args": {
-      "contents": "\"${0:$SELECTION}\""
+      "contents": "'${0:$SELECTION}'"
     },
     "context": [{
       "key": "setting.auto_match_enabled",
@@ -115,26 +115,6 @@
       "target": "clipboard",
       "output_type": "rtf"
     }
-  },
-
-  {
-    "keys": ["super+shift+b"],
-    "command": "anypreter"
-  },
-
-  {
-      "keys": [
-          "noop"
-      ],
-      "args": {
-          "action": "decrement_number_by_10"
-      },
-      "command": "run_emmet_action",
-      "context": [
-          {
-              "key": "emmet_action_enabled.decrement_number_by_10"
-          }
-      ]
   },
 
   { "keys": ["alt+d"], "command": "goto_definition" }

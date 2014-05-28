@@ -56,8 +56,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"HTML",
-		"Vintage"
+		"Vintage",
+		"HTML"
 	],
 	"indent_guide_options":
 	[
