@@ -36,10 +36,12 @@
     "args": {
       "to": "line"
     }
-  }, {
+  },
+  {
     "keys": ["super+shift+j"],
     "command": "split_selection_into_lines"
-  }, {
+  },
+  {
     "keys": ["super+k", "super+t"],
     "command": "title_case"
   }, {
