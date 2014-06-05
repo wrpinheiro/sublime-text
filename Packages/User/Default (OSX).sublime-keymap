@@ -1,9 +1,6 @@
 [
   {
     "keys": ["super+alt+]"],
-    "command": "alignment"
-  }, {
-    "keys": ["super+alt+]"],
     "command": "abacus"
   }, {
     "keys": ["super+alt+w"],
@@ -11,12 +8,6 @@
     "args": {
       "setting": "word_wrap"
     }
-  }, {
-    "keys": ["ctrl+alt+["],
-    "command": "fold"
-  }, {
-    "keys": ["ctrl+alt+]"],
-    "command": "unfold"
   }, {
     "keys": ["ctrl+super+r"],
     "command": "reveal_in_side_bar"

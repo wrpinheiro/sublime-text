@@ -1,5 +1,5 @@
 {
-  "cmd": ["ruby", "$file"],
+  "cmd": ["/usr/local/bin/ruby", "$file"],
   "selector": "source.ruby",
   "working_dir": "${project_path:${folder}}"
 }
