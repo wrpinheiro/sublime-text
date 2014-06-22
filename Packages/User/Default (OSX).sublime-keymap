@@ -1,8 +1,14 @@
 [
+  // {
+  //   "keys": ["super+alt+]"],
+  //   "command": "abacus"
+  // }
   {
-    "keys": ["super+alt+]"],
-    "command": "abacus"
-  }, {
+    "keys": ["super+alt+a"],
+    "command": "align_tab",
+    "args" : {"user_input" : "=|=>|:"}
+  }
+  , {
     "keys": ["super+alt+w"],
     "command": "toggle_setting",
     "args": {

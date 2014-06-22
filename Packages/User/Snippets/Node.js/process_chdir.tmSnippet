@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>process.chdir("$1");</string>
+	<string>process.chdir('$1');</string>
 	<key>name</key>
 	<string>process.chdir</string>
 	<key>scope</key>
