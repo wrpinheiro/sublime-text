@@ -20,6 +20,7 @@
 		"Expand Selection to Quotes",
 		"FindKeyConflicts",
 		"Gist",
+		"Git",
 		"GitGutter",
 		"Handlebars",
 		"Highlight",
@@ -45,7 +46,6 @@
 		"sublimelint",
 		"Swift",
 		"Switch Case",
-		"TernJS",
 		"Theme - Soda",
 		"WordCount"
 	],

@@ -12,6 +12,13 @@
     },
 
     {
+      "name": "Sass/Syntaxes/Sass",
+      "rules": [
+        {"file_name": ".*\\.sass$"},
+      ]
+    },
+
+    {
       "name": "Better RSpec/RSpec",
       "rules": [
         {"file_name": "spec_\\.rb$"},
