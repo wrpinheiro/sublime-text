@@ -57,10 +57,11 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"HTMLBeautify",
-		"HTML",
 		"Ruby",
-		"Vintage"
+		"SideBarEnhancements",
+		"Vintage",
+		"HTMLBeautify",
+		"HTML"
 	],
 	"indent_guide_options":
 	[
