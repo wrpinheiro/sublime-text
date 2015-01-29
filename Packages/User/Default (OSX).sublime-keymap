@@ -4,7 +4,7 @@
   //   "command": "abacus"
   // }
   {
-    "keys": ["super+alt+a"],
+    "keys": ["super+alt+]"],
     "command": "align_tab",
     "args" : {"user_input" : "=|=>|:"}
   }
@@ -117,4 +117,10 @@
   },
 
   { "keys": ["alt+d"], "command": "goto_definition" }
+
+  // {
+  //   "keys": ["super+k", "super+b"],
+  //   "command": "dired",
+  //   "args": { "immediate": true, "other_group": "right", "project": true }
+  // }
 ]

@@ -40,14 +40,10 @@
         {"file_name": ".*\\config.ru$"},
         {"file_name": ".*\\.rake$"},
         {"file_name": ".*\\.simplecov$"},
-        {"file_name": ".*\\.jbuilder$"},
-        // {"file_name": ".*\\.rb$"},
-        {"file_name": ".*\\Podfile$"},
-        {"file_name": ".*\\.podspec$"},
         {"file_name": ".*\\.rabl$"},
         {"binary": "ruby"},
         {"extensions": [
-          "thor", "rake", "simplecov", "jbuilder", "rb", "podspec", "rabl"
+          "thor", "rake", "simplecov", "jbuilder", "rb", "rabl", "podspec"
         ]}
       ]
     },
@@ -94,6 +90,13 @@
       "name": "JavaScript/JSON",
       "rules": [
         {"file_name": ".*\\.bowerrc$"}
+      ]
+    },
+
+    {
+      "name": "JavaScript/JavaScript",
+      "rules": [
+        {"file_name": ".*\\.es6$"}
       ]
     },
 

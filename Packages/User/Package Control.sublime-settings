@@ -1,10 +1,20 @@
 {
+  "submit_usage": true,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AAAPackageDev",
 		"ActionScript 3",
 		"AdvancedNewFile",
 		"AlignTab",
+		"All Autocomplete",
 		"Ansible",
 		"ApplySyntax",
 		"Autoprefixer",
@@ -14,17 +24,19 @@
 		"BufferScroll",
 		"ChangeQuotes",
 		"ColorPicker",
-		"CSS3_Syntax",
 		"DashDoc",
+		"Dockerfile Syntax Highlighting",
 		"EJS",
 		"Ember.js Snippets",
 		"Emmet",
 		"Expand Selection to Quotes",
+		"FileBrowser",
 		"FindKeyConflicts",
 		"Gist",
 		"Git",
 		"GitGutter",
 		"Handlebars",
+		"Hayaku - tools for writing CSS faster",
 		"Highlight",
 		"HTML5",
 		"HTMLBeautify",
@@ -36,19 +48,17 @@
 		"nginx",
 		"Package Control",
 		"Puppet",
-		"Ruby",
+		"Qunit Snippets",
 		"RubyEval",
 		"RubyToggleString",
 		"ScopeAlways",
 		"ScopeHunter",
 		"SCSS",
 		"SideBarEnhancements",
-		"Solarized Color Scheme",
 		"SublimeERB",
 		"sublimelint",
 		"Swift",
 		"Switch Case",
-		"Theme - El Capitan",
 		"Theme - Soda",
 		"WordCount"
 	],
