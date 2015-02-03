@@ -1,5 +1,4 @@
 {
-  "submit_usage": true,
 	"in_process_packages":
 	[
 	],
@@ -10,7 +9,6 @@
 	],
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"ActionScript 3",
 		"AdvancedNewFile",
 		"AlignTab",
@@ -30,7 +28,6 @@
 		"Ember.js Snippets",
 		"Emmet",
 		"Expand Selection to Quotes",
-		"FileBrowser",
 		"FindKeyConflicts",
 		"Gist",
 		"Git",
@@ -43,11 +40,11 @@
 		"INI",
 		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
+		"Markdown Extended",
 		"Markdown Preview",
 		"Modific",
 		"nginx",
 		"Package Control",
-		"Puppet",
 		"Qunit Snippets",
 		"RubyEval",
 		"RubyToggleString",
@@ -60,10 +57,12 @@
 		"Swift",
 		"Switch Case",
 		"Theme - Soda",
+		"Tomorrow Color Schemes",
 		"WordCount"
 	],
 	"repositories":
 	[
 		"https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json"
-	]
+	],
+	"submit_usage": true
 }
